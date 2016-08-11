@@ -318,6 +318,17 @@ body {
   bottom: 0;
   z-index: -1;
 }
+.info{
+  font-size: 1em;
+  text-align: center;
+}
+.info .author{
+  font-size: 0.6em;
+  margin-bottom: 10px;
+}
+.info .author a{
+  color: #f05327;
+}
 /*food rain canvas end*/
 .browserupgrade {
   margin: 0.2em 0;
